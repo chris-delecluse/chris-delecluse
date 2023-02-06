@@ -14,6 +14,7 @@ My name is Christopher Delecluse, and I'm currently a junior developer at BeCode
 - <img src="https://img.shields.io/badge/-Javascript-yellow"> <img src="https://img.shields.io/badge/-React-blue">
 - <img src="https://img.shields.io/badge/-PHP-blueviolet">
 
+## Visitors: ![Visitor Count](https://profile-counter.glitch.me/chris-delecluse/count.svg)
 
 ## How to reach me : 
 
