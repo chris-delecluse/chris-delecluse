@@ -1,4 +1,5 @@
 # 🌱 Hello world 🌱
+![](https://komarev.com/ghpvc/?username=chris-delecluse)
 
 My name is Christopher Delecluse, and I'm a junior fullstack developer that looking for a job.
 
@@ -18,5 +19,3 @@ My name is Christopher Delecluse, and I'm a junior fullstack developer that look
 
 - [Linkedin](https://www.linkedin.com/in/christopher-delecluse/)
 - [E-mail](mailto:christopherdeleclusepro@gmail.com)
-
-![](https://komarev.com/ghpvc/?chris-delecluse)
