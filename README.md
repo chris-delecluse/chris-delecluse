@@ -14,10 +14,9 @@ My name is Christopher Delecluse, and I'm a junior fullstack developer that look
 - <img src="https://img.shields.io/badge/-Javascript-yellow"> <img src="https://img.shields.io/badge/-React-blue">
 - <img src="https://img.shields.io/badge/-PHP-blueviolet">
 
-## Visitors: ![Visitor Count](https://profile-counter.glitch.me/chris-delecluse/count.svg)
-
 ## How to reach me : 
 
 - [Linkedin](https://www.linkedin.com/in/christopher-delecluse/)
 - [E-mail](mailto:christopherdeleclusepro@gmail.com)
 
+![](https://komarev.com/ghpvc/?chris-delecluse)
