@@ -1,6 +1,6 @@
 # 🌱 Hello world 🌱
 
-My name is Christopher Delecluse, and I'm currently a junior developer at BeCode Charleroi in Belgium.
+My name is Christopher Delecluse, and I'm a junior fullstack developer that looking for a job.
 
 ## ✨ Techno : ✨
 
